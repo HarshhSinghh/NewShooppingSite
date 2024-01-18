@@ -1,0 +1,16 @@
+.app-Container{
+    display: flex;
+    height: 100%;
+    
+ 
+}
+.Other-Bar{
+    width: 100%;
+}
+.hastag{
+    margin: 5px;
+  }
+
+.badges{
+    margin: 20px;
+}
